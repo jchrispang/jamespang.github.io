@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr James Pang"
-  avatar           : "profile_photo_James_Pang.jpg"
+  avatar           : "images/profile_photo_James_Pang.jpg"
   bio              : "Physicist/Neuroscientist working on neuroimaging and computational models"
   location         : "Melbourne, Australia"
   employer         : "Monash University"
