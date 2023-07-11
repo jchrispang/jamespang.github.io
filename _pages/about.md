@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Current position
-* Research Fellow, The Turner Institute for Brain and Mental Health, Monash University
+* Research Fellow, [The Turner Institute for Brain and Mental Health](https://www.monash.edu/turner-institute), Monash University
 
 ## External positions
 * Visiting Scientist, QIMR Berghofer Medical Research Institute
