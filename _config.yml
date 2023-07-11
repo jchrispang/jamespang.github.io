@@ -85,12 +85,12 @@ author:
   bio              : "Physicist/Neuroscientist"
   location         : "Melbourne, Australia"
   employer         : 
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=james+pang"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=QdrOmZgAAAAJ&hl=en"
   email            : "james.pang1@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   website          : "https://research.monash.edu/en/persons/james-pang"
-  uri              :
+  uri              : "https://research.monash.edu/en/persons/james-pang"
   bitbucket        :
   codepen          :
   dribbble         :
