@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Papers"
+permalink: /papers/
 ---
 
 ## Preprints
