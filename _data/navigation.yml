@@ -3,23 +3,23 @@ main:
   - title: "Papers"
     url: /papers/
 
-  - title: "Conferences"
-    url: /conferences/    
+  #- title: "Conferences"
+  #  url: /conferences/    
 
-  - title: "Grants/Awards"
-    url: /grants_awards/    
+  #- title: "Grants/Awards"
+  #  url: /grants_awards/    
     
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
         
-  - title: "Professional Services"
-    url: /professional_services/
+  #- title: "Professional Services"
+  #  url: /professional_services/
 
-  - title: "Media Engagements"
-    url: /media_engagements/
+  #- title: "Media Engagements"
+  #  url: /media_engagements/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
