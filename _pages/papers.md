@@ -15,7 +15,7 @@ permalink: /papers/
 
 ## Published
 ### 2023  
-1. <ins>J.C. Pang</ins>+, K.M. Aquino+, M. Oldehinkel, P.A. Robinson, B.D. Fulcher, M. Breakspear, and A. Fornito, Geometric constraints on human brain function, *Nature*, 618, 566–574 (+co-first author) [[LINK](https://doi.org/10.1038/s41586-023-06098-1)] [[CODE](https://github.com/NSBLab/BrainEigenmodes)]
+1. <ins>J.C. Pang</ins>+, K.M. Aquino+, M. Oldehinkel, P.A. Robinson, B.D. Fulcher, M. Breakspear, and A. Fornito, Geometric constraints on human brain function, *Nature*, 618, 566–574 (+co-first author) [[LINK](https://doi.org/10.1038/s41586-023-06098-1)] [[PDF](/files/papers/2023_Nature_geometric_eigenmodes_compressed.pdf)] [[RESEARCH BRIEFING](https://www.nature.com/articles/d41586-023-01495-y)] [[CODE](https://github.com/NSBLab/BrainEigenmodes)]
 
 ### 2022
 1. <ins>J.C. Pang</ins>, J.K. Rilling, J.A. Roberts, M.P. van den Heuvel, and L. Cocchi, Evolutionary shaping of human brain dynamics, *eLife*, 11, e80627 [[LINK](https://doi.org/10.7554/eLife.80627)] [[CODE](https://github.com/jchrispang/evolution-brain-tuning)]
