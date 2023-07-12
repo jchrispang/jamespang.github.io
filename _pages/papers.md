@@ -1,9 +1,6 @@
 ---
 permalink: /
 title: "Papers"
-redirect_from: 
-  - /papers/
-  - /papers.html
 ---
 
 ## Preprints
