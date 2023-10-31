@@ -5,13 +5,14 @@ permalink: /papers/
 ---
 
 ## Preprints
-1. Y.-C. Chen, J. Tiego, A. Segal, S. Chopra, A. Holmes, C. Suo, <ins>J.C. Pang</ins>+, A. Fornito+, and K.M. Aquino+, A multiscale characterization of cortical shape asymmetries in early psychosis, *medRxiv* (2023) (+equal contributions) [[LINK](https://www.medrxiv.org/content/10.1101/2023.04.29.23289297v1)]
-2. A. Holmes, P. Levi, Y.-C. Chen, S. Chopra, K.M. Aquino, <ins>J.C. Pang</ins>, and A. Fornito, Disruptions of hierarchical cortical organization in early psychosis and schizophrenia, *medRxiv* (2023) [[LINK](https://www.medrxiv.org/content/10.1101/2023.05.02.23289376v1)]
+1. <ins>J.C. Pang</ins>, K.M. Aquino, M. Oldehinkel, P.A. Robinson, B.D. Fulcher, M. Breakspear, and A. Fornito, Reply to: Commentary on Pang et al. (2023) Nature, *bioRxiv* (2023) [[LINK](https://doi.org/10.1101/2023.10.06.560797)]
+2. Y.-C. Chen, J. Tiego, A. Segal, S. Chopra, A. Holmes, C. Suo, <ins>J.C. Pang</ins>+, A. Fornito+, and K.M. Aquino+, A multiscale characterization of cortical shape asymmetries in early psychosis, *medRxiv* (2023) (+equal contributions) [[LINK](https://www.medrxiv.org/content/10.1101/2023.04.29.23289297v1)]
 3. T. Cao, <ins>J.C. Pang</ins>, A. Segal, Y.-C. Chen, K.M. Aquino, M. Breakspear, and A. Fornito, Mode-based morphometry: A multiscale approach to mapping human neuroanatomy, *bioRxiv* (2023) [[LINK](https://www.biorxiv.org/content/10.1101/2023.02.26.529328v1)]
 
 ## Accepted/In press
-1. P.T. Levi, S. Chopra, <ins>J.C. Pang</ins>, A. Holmes, T.A. Sassenberg, C.G. De Young, and A. Fornito, The effect of using group-averaged or individualized brain parcellations when investigating connectome dysfunction: A case study in psychosis, accepted in *Network Neuroscience* [[LINK](https://doi.org/10.1162/netn_a_00329)]
-2. M. Gajwani, S.J. Oldham, <ins>J.C. Pang</ins>, A. Arnatkeviçiute, J. Tiego, M.A. Bellgrove, and A. Fornito, Can hubs of the human connectome be identified consistently with diffusion MRI?, accepted in *Network Neuroscience* [[LINK](https://doi.org/10.1162/netn_a_00324)] [[CODE](https://github.com/BMHLab/DegreeVariability)]
+1. A. Holmes, P. Levi, Y.-C. Chen, S. Chopra, K.M. Aquino, <ins>J.C. Pang</ins>, and A. Fornito, Disruptions of hierarchical cortical organization in early psychosis and schizophrenia, accepted in *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* (2023) [[LINK](https://doi.org/10.1016/j.bpsc.2023.08.008)][[PRESS RELEASE](https://beta.elsevier.com/about/press-releases/brain-connectivity-is-disrupted-in-schizophrenia)]
+2. P.T. Levi, S. Chopra, <ins>J.C. Pang</ins>, A. Holmes, T.A. Sassenberg, C.G. De Young, and A. Fornito, The effect of using group-averaged or individualized brain parcellations when investigating connectome dysfunction: A case study in psychosis, accepted in *Network Neuroscience* [[LINK](https://doi.org/10.1162/netn_a_00329)]
+3. M. Gajwani, S.J. Oldham, <ins>J.C. Pang</ins>, A. Arnatkeviçiute, J. Tiego, M.A. Bellgrove, and A. Fornito, Can hubs of the human connectome be identified consistently with diffusion MRI?, accepted in *Network Neuroscience* [[LINK](https://doi.org/10.1162/netn_a_00324)] [[CODE](https://github.com/BMHLab/DegreeVariability)]
 
 ## Published
 ### 2023  
