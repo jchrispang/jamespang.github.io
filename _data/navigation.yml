@@ -6,8 +6,8 @@ main:
   #- title: "Conferences"
   #  url: /conferences/    
 
-  #- title: "Grants/Awards"
-  #  url: /grants_awards/    
+  - title: "Grants/Awards"
+    url: /grants_awards/    
     
   #- title: "Teaching"
   #  url: /teaching/
