@@ -17,7 +17,7 @@ redirect_from:
 * Honorary Fellow, University of Queensland
 
 ## About me
-I received my PhD in Physics from the [University of Sydney](https://www.sydney.edu.au/) and completed my postdoctoral training in the Brain Modelling Group at [QIMR Berghofer Medical Research Institute](https://www.qimrberghofer.edu.au/) (Brisbane, Australia). My research employs a multidisciplinary approach that combines biophysical models, neuroimaging (structural, diffusion, and functional MRI), and connectivity to better understand the mechanisms of brain function in health, disease, and across species. I am also the current chair of the [OHBM Student and Postdoc Special Interest Group (SP SIG)](https://www.ohbmtrainees.com/). 
+I received my PhD in Physics from the [University of Sydney](https://www.sydney.edu.au/) and completed my postdoctoral training in the Brain Modelling Group at [QIMR Berghofer Medical Research Institute](https://www.qimrberghofer.edu.au/) (Brisbane, Australia). My research employs a multidisciplinary approach that combines biophysical models, neuroimaging (structural, diffusion, and functional MRI), and connectivity to better understand the mechanisms of brain function in health, disease, and across species. 
 
 ## Research interests
 * Neuroscience
